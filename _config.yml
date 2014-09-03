@@ -1,6 +1,8 @@
 # 我的工作日志
-permalink: /:year/:title/
+permalink: /:year/:month/:day/:title
 paginate: 10
 exclude: []
 name: 我的工作日志
 baseurl: /workdiary
+auto: true  
+markdown: rdiscount
