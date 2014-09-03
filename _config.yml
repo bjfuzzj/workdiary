@@ -4,4 +4,3 @@ paginate: 10
 exclude: []
 name: 我的工作日志
 baseurl: /workdiary
-markdown:rdiscount
