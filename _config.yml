@@ -5,4 +5,4 @@ exclude: []
 name: 工作日志
 baseurl: /workdiary
 auto: true  
-markdown: rdiscount
+markdown: kramdown
