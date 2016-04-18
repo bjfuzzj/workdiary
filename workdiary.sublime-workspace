@@ -1,0 +1,404 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"temp",
+				"temp_index"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"emp",
+				"empty"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"preg_ma",
+				"preg_match_all"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_posts/2016/2016-2-16-2月15日到2月20日周报.md",
+			"settings":
+			{
+				"buffer_size": 496,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/bjfuzzj/Desktop/http:::dev.jiahao.haodf.com:doctor:chenyouxin:inde",
+			"settings":
+			{
+				"buffer_size": 123,
+				"line_ending": "Unix",
+				"name": "http://dev.jiahao.haodf.com/doctor/chenyouxin/inde"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 227.0,
+		"last_filter": "install pac",
+		"selected_items":
+		[
+			[
+				"install pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/bjfuzzj/workdiary",
+		"/Users/bjfuzzj/workdiary/_posts"
+	],
+	"file_history":
+	[
+		"/Users/bjfuzzj/workdiary/_posts/2016/本周工作内容如下：",
+		"/Users/bjfuzzj/workdiary/_posts/2016/2016-2-16-2月15日到2月20日周报.md",
+		"/Users/bjfuzzj/workdiary/_posts/post.md",
+		"/Users/bjfuzzj/Desktop/haodf/svn/avatar/tags/v5.0.2/libs/framework/util/beanfinder.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/avatar/tags/v5.0.2/libs/service_common/dal.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/services/booking/tags/v5.0.2/src/interface/client/booking.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/avatar/tags/v5.0.2/hdfadmin/assembly.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/avatar/tags/v5.0.2/wwwfront/root/dzonefront.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/avatar/tags/v5.0.2/dzonefront/controllers/adminsetupcontroller.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/avatar/tags/v5.0.2/dzonefront/controllers/dzonecommoncontroller.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/avatar/tags/v5.0.2/dzonefront/controllers/adminthreadcontroller.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/avatar/tags/v5.0.2/wwwfront/root/index.php",
+		"/Users/bjfuzzj/Desktop/haodf/sftp-config.json",
+		"/Users/bjfuzzj/Desktop/haodf/svn/avatar/tags/v5.0.2/wwwfront/assembly.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/services/patientfile/tags/v5.0.2/src/interface/client/patientcourse.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/avatar/tags/v5.0.2/mobilefront/assembly.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/avatar/tags/v5.0.2/mobilefront/controllers/basecontroller.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/libs/tags/v5.0.2/framework/web/router.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/avatar/tags/v5.0.2/wwwfront/controllers/doctorcontroller.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/avatar/tags/v5.0.2/wwwfront/templates/plussignchannel/index.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/avatar/tags/v5.0.2/wwwfront/controllers/plussignchannel.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/avatar/tags/v5.0.2/wwwfront/mywebapp.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/avatar/tags/v5.0.2/mobilefront/mywebapp.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/libs/tags/v5.0.2/framework/web/webapplication.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/avatar/tags/v5.0.2/wwwfront/templates/index/index.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/avatar/tags/v5.0.2/wwwfront/root/init.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/avatar/tags/v5.0.2/wwwfront/templates/index/index_bigpipe_inc/pushback_pagelet.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/avatar/tags/v5.0.2/wwwfront/templates/index/ajaxdoctorlist.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/avatar/tags/v5.0.2/mobilefront/controllers/bookingcontroller.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/libs/tags/v5.0.2/framework/web/response.php",
+		"/Users/bjfuzzj/Desktop/haodf/svn/avatar/tags/v5.0.2/mobilefront/root/index.php",
+		"/Users/bjfuzzj/Desktop/haodf/.ssh/authorized_keys",
+		"/Users/bjfuzzj/Desktop/haodf/svn/avatar/tags/v5.0.2/mobilefront/controllers/chargecontroller.php",
+		"/Users/bjfuzzj/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/haodf",
+		"/Users/bjfuzzj/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/Users/bjfuzzj/Library/Application Support/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/bjfuzzj/Desktop/index.html",
+		"/Users/bjfuzzj/Desktop/tools_index.html",
+		"/Users/bjfuzzj/Downloads/baihejie.sql",
+		"/Users/bjfuzzj/Desktop/discuz_thread.php",
+		"/Users/bjfuzzj/www/wxpay/index3.php",
+		"/Users/bjfuzzj/www/wxpay/payfeedback/index.php",
+		"/Users/bjfuzzj/www/wxpay/index.php",
+		"/Users/bjfuzzj/www/discuz.php",
+		"/Users/bjfuzzj/Desktop/discuz.php",
+		"/Volumes/WINDOW/硬盘备份/H盘/test.sql",
+		"/Volumes/WINDOW/硬盘备份/新浪再见/xiaohua/1/xiaohua.php",
+		"/Users/bjfuzzj/Downloads/www-大黑豆网文/index.php",
+		"/Volumes/WINDOW/硬盘备份/新浪再见/htdocs/xiaohua.php",
+		"/Volumes/WINDOW/硬盘备份/新浪再见/自己的小函数整理/functions.php",
+		"/Volumes/WINDOW/硬盘备份/tttt.php",
+		"/Volumes/WINDOW/硬盘备份/testarry.php",
+		"/Volumes/WINDOW/硬盘备份/test1.php",
+		"/Users/bjfuzzj/Desktop/project/navi/common.php",
+		"/Users/bjfuzzj/Desktop/test",
+		"/http:::phperzj-wordpress.stor.sinaapp.com:",
+		"/Users/bjfuzzj/Documents/路线",
+		"/Users/bjfuzzj/Desktop/toos_index/css/tianqi.css",
+		"/Users/bjfuzzj/Desktop/短信账号相关",
+		"/2. 源程序总量   用行数来表示；",
+		"/Users/bjfuzzj/Downloads/global-content (1).bin",
+		"/Users/bjfuzzj/Downloads/global-content.bin",
+		"/Users/bjfuzzj/Desktop/pub8/tool/transfer.php",
+		"/Users/bjfuzzj/Desktop/pub8/js/gong.js",
+		"/Users/bjfuzzj/Desktop/pub/tool/ghc.php",
+		"/Users/bjfuzzj/Desktop/pub/js/gfunc.js",
+		"/Users/bjfuzzj/Desktop/pub/js/share_func.js",
+		"/Users/bjfuzzj/nodeclub/config.js",
+		"/Users/bjfuzzj/nodeclub/common/mail.js",
+		"/Users/bjfuzzj/index.html",
+		"/Users/bjfuzzj/pub/plib/global_func.php",
+		"/Users/bjfuzzj/Desktop/推荐加息券/tuijian_x.html",
+		"/Users/bjfuzzj/Desktop/支付通相关/RSAdemo/测试RSA_Demo/login.jsp",
+		"/Users/bjfuzzj/daheidouV1.1/security.html",
+		"/Users/bjfuzzj/Desktop/test_index.html",
+		"/Users/bjfuzzj/Desktop/无缝滑动的图片轮播.html",
+		"/Users/bjfuzzj/Desktop/找理财V.V1-2015-9-29/index.html",
+		"/Users/bjfuzzj/Downloads/dhd_zft_invest.sql",
+		"/Users/bjfuzzj/Downloads/#init:",
+		"/Users/bjfuzzj/project/weixin/Application/Common/Conf/index.html",
+		"/Users/bjfuzzj/project/weixin/Application/Common/Common/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"attach2bingli",
+			"uploadsingleattach",
+			"bingli",
+			"BookingClient",
+			"getFinishOrderList4Space",
+			"function find_by_fld_SpaceUserName",
+			"find_by_fld_SpaceUserName",
+			"BeanFinder",
+			"get(",
+			"class DAL",
+			"showdoctororderlist",
+			"yuyuejiahaolist",
+			"\nclass RouterRule ",
+			"\nclass RouterRule",
+			"\nclass NamedRouterRule",
+			"\nclass NameRouterRule",
+			"\nclass BeanFinder",
+			"\nEnvSetupHelper",
+			"registerShutDown",
+			"WebApplication",
+			"response",
+			"respones",
+			"WebApplication",
+			"(\"\\<",
+			"function sys_user_status",
+			"sys_user_status",
+			"borrow",
+			"tools_index",
+			"tool_index",
+			"cm.js",
+			"google",
+			"rsalogin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_posts/2016/2016-2-16-2月15日到2月20日周报.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								326,
+								326
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/bjfuzzj/Desktop/http:::dev.jiahao.haodf.com:doctor:chenyouxin:inde",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								123
+							]
+						],
+						"settings":
+						{
+							"auto_name": "http://dev.jiahao.haodf.com/doctor/chenyouxin/inde",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 512.0
+	},
+	"output.sftp":
+	{
+		"height": 28.0
+	},
+	"pinned_build_system": "",
+	"project": "workdiary.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/workdiary/workdiary.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "dispa",
+		"selected_items":
+		[
+			[
+				"dispa",
+				"dispatch"
+			]
+		],
+		"width": 710.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
